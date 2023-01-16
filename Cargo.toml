@@ -2,3 +2,9 @@
 name = "cargo-lib"
 version = "0.1.0"
 edition = "2018"
+description = "Strongly-typed Cargo instructions for your build script"
+repository = "https://github.com/MoAlyousef/cargo-lib"
+keywords = ["buildscript"]
+categories = ["development-tools::build-utils"]
+readme = "README.md"
+license = "MIT"
